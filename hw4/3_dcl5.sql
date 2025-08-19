@@ -1,0 +1,1 @@
+GRANT INSERT, UPDATE ON Employees TO hr_user;
